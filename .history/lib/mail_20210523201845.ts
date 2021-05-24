@@ -1,0 +1,5 @@
+import { createTransport } from "nodemailer"
+
+const transport = createTransport ({
+    host: process
+})
